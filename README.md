@@ -22,3 +22,6 @@
 	- RAM/ROM
 보조 기억 장치
 DISK / SSD
+
+
+jang
