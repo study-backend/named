@@ -23,8 +23,8 @@
 ### :family: Contributing을 하는 방법 
 > 아래 2가지 방법 중 선택해서 진행해 주세요 
 
-방법 1 - 개인 local branch에서 commit / fetch updtream / rebase master 를 진행 한 후 Fork한 remote branch로 push 후 Pull Request를 진행해 주세요 
-방법 2 - Remote branch에 직접 issue 등록해서 내용 추가를 진행해 주세요
+- 방법 1 : 개인 local branch애서 작업 후 commit / fetch upstream / rebase master 후 개인의 remote branch에 push를 해서 Pull Request를 만들어서 public repository에 수정된 내용 반영을 요청합니다.
+- 방법 2 : public repository에서 issue 등록 후 추가할 내용을 업데이트 요청 합니다
 
 -------------------------------------------
 </br>
