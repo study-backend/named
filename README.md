@@ -23,8 +23,8 @@
 ### :family: Contributing을 하는 방법 
 > 아래 2가지 방법 중 선택해서 진행해 주세요 
 
-방법 1 : 
-방법 2 :
+방법 1 - 개인 local branch에서 commit / fetch updtream / rebase master 를 진행 한 후 Fork한 remote branch로 push 후 Pull Request를 진행해 주세요 
+방법 2 - Remote branch에 직접 issue 등록해서 내용 추가를 진행해 주세요
 
 -------------------------------------------
 </br>
@@ -115,7 +115,7 @@
 - [줌인터넷](https://zuminternet.github.io/)
 - [빙글](https://medium.com/vingle-tech-blog)
 - [네이버(SlideShare)](https://www.slideshare.net/NaverEngineering/presentations)
-- [네이버(FE Platform)(https://medium.com/naver-fe-platform/archive)
+- [네이버(FE Platform](https://medium.com/naver-fe-platform/archive)
 - [Naver Teck Concert](http://techcon.naver.com/)
 - [네이버(D2)](https://d2.naver.com/home)
 - [네이버(Naver TV(DEVIEW 영상 포함))](https://tv.naver.com/naverd2)
