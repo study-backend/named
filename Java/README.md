@@ -1,27 +1,5 @@
-
-ÀÀÁýµµ¿Í °áÇÕµµ¸¦ ¼³¸íÇÏ±âÀü¿¡ °£´ÜÈ÷ ¸ðµâÈ­ ¸ÕÀú ¾Ë¾Æº¸°í °¡ÀÚ
-
-¸ðµâÈ­ = ÇÁ·Î±×·¥À» ºÐ¼®ÇÏ°í Ãß»óÈ­ ÇÏ¿© ¼ÒÇÁÆ®¿þ¾îÀÇ ¼º´ÉÀ» Çâ»ó½ÃÅ°°Å³ª,
-ÇÁ·Î±×·¥ÀÇ ½ÃÇè, ÅëÇÕ ¹× ¼öÁ¤À» ¿ëÀÌÇÏ°Ô ÇÏ´Â ¼³°è ¹× ±¸Çö ±â¹ýÀÌ´Ù.
-
-¸ðµâÀÇ ÀåÁ¡À» ÃÖ´ëÇÑ »ì¸®±â À§ÇØ¼­ ÀÀÁýµµ´Â ÃÖ´ëÇÑ ³ô¾ÆÁ®¾ß ÇÏ°í, °áÇÕµµ´Â ÃÖ´ëÇÑ ³·¾ÆÁ®¾ß ÇÑ´Ù. 
-
-ex) ÇÑ ÇÁ·Î±×·¥À» ÇÏ³ªÀÇ Å¬·¡½º ³»¿¡ ¼³°èÇÒ ¼ö ÀÖÁö¸¸, ¿ì¸®°¡ ¹è¿î MVC(model / view / controller)
-±¸Á¶ ÇüÅÂ·Î ³ª´² ¼³°èÇÏ´Â °ÍÀ» ¸»ÇÑ´Ù?
-
-ÀÀÁýµµ : ÇÏ³ªÀÇ ¸ðµâÀÌ ÇÏ³ªÀÇ ±â´ÉÀ» ±¸ÇöÇÏ´Â µ¥¿¡ ÁýÁßÇÏ´Â Á¤µµ
-
-ex) view¿¡´Â viewÀÇ ±â´É¸¸! controller¿¡´Â controller ±â´É¸¸!
-
--> ÀÀÁýµµ °­ÇÔ ¼ø¼­
-¿ì¿¬Àû ÀÀÁýµµ - ³í¸®Àû ÀÀÁýµµ - ½Ã°£Àû ÀÀÁýµµ - ÀýÂ÷Àû ÀÀÁýµµ - ±³È¯Àû ÀÀÁýµµ - ¼øÂ÷Àû ÀÀÁýµµ - ±â´ÉÀû ÀÀÁýµµ
-´Â ³ªÁß¿¡ ¾Ë¾Æº¸ÀÚ
-
-°áÇÕµµ : ¸ðµâ °£¿¡ »óÈ£ ÀÇÁ¸ÇÏ´Â Á¤µµ
-
-ex) view¿Í controllerÀÇ °ü°è , controller¿Í serviceÀÇ °ü°è (¼­·Î ÀÎ¼ö¸¦ ÁÖ°í¹Þ´Â ~~ ¹¹ ÀÌ·±°Íµé..)
-
--> °áÇÕµµ ¾àÇÔ ¼ø¼­
-³»¿ë °áÇÕµµ - °øÅë °æÇÕµµ - ¿ÜºÎ °áÇÕµµ - Á¦¾î °áÇÕµµ - ½ºÅÆÇÁ °áÇÕµµ - ÀÚ·á °áÇÕµµ - ¸Þ½ÃÁö °áÇÕµµ´Â
-³ªÁß¿¡ ¾Ë¾Æº¸ÀÚ
-
+exception
+     - ìµœìƒìœ„ exceptionì„ ì¨ë„ ë˜ëŠ”ë° ì™œ í•˜ìœ„ exceptionì„ ì‚¬ìš©í•˜ëŠ”ê°€?
+    - í•˜ìœ„ì˜ exceptionì€ ìµœìƒìœ„ì˜ exceptionì„ ìƒì†ë°›ì•„ì„œ í•˜ê¸°ë•Œë¬¸ì— Exception ì— ê¸°ëŠ¥ì„ ì¶”ê°€í•´ì„œ ì‚¬ìš©í•˜ëŠ”ê²ƒ 
+    - ìµœìƒìœ„ì˜ except ì„ ì‚¬ìš©í•˜ë©´ ë‹¤ ìž¡ì„ ìˆ˜ ìžˆë‹¤.  ì •í™•í•œ exceptionì˜ ì´ë¦„ìœ¼ë¡œ catchì„ í•˜ë©´ ì¢€ë” ê¸°ëŠ¥ì ìœ¼ë¡œ ìž¡ì„ ìˆ˜ ìžˆì§€ë§Œ ë¹ˆí‹ˆì„ ë§Œë“¤ì§€ ì•Šê¸° ìœ„í•´ ìµœìƒìœ„ exceptionë¥¼ ì‚¬ìš©í•œë‹¤.
+    - exceptionì„ ì‚¬ìš©í•˜ë©´ ìžì‹ ì´ ì›í•˜ëŠ” ê³³ìœ¼ë¡œ ë°ì´í„°ë¥¼ ì´ë™ì‹œí‚¬ ìˆ˜ ìžˆê¸°ë•Œë¬¸ì— ìš©ì´í•˜ê²Œ throwë¥¼ ì‚¬ìš©í•  ìˆ˜ ìžˆë‹¤.
