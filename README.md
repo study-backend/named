@@ -114,6 +114,7 @@
 - [신입 개발자 생활백서(진유림)](https://www.slideshare.net/jayjin0427/ss-71896768)
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/memoirs/memoirs2018/)
 - [나도 개발자가 될 수 있을까(영상)](https://www.edwith.org/sef-2019/joinLectures/24506)
+- [잦은 이직](https://blog.outsider.ne.kr/1445?category=1)
 
 
 ### 3. [기업 테크 블로그]

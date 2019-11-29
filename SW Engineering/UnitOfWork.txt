@@ -1,0 +1,2 @@
+- https://github.com/iluwatar/java-design-patterns
+- https://www.sourcecodeexamples.net/2018/04/unit-of-work.html

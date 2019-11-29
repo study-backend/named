@@ -5,3 +5,5 @@
 jsp
 aphach
 tomcat
+
+- https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/
