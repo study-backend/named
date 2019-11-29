@@ -63,16 +63,20 @@
 - [GraphQL 개념잡기](https://tech.kakao.com/2019/08/01/graphql-basic/)
 - [Hello! React Hooks](https://ahnheejong.name/articles/hello-react-hooks/)
 
-### 10. [Tool]
+### 10 [Web]
+- [SVG 는 언제 써야하는가?](https://mygumi.tistory.com/283?category=642143)
+- [웹 브라우저의 동작순서](https://mygumi.tistory.com/200?category=642143)
+
+### 11 [Algorithm]
+- 
+
+### 12. [Tool]
 - [신입 개발자 & 학생을 위한 Spring MVC Setting](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1%ED%8E%B8/?_fr=dable&utm_source=dable)
 - [Intellij 활용 꿀팁](https://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/?_fr=dable&utm_source=dable)
 - [GIT](https://github.com/Integerous/git-tips)
 - [REST API tester](https://www.swapi.co)
 
-### 11 [알고리즘]
-- 
-
-### 12 [Etc]
+### 13 [Etc]
 - [독후감](https://devjang.github.io/categories/book/)
 - [개발자 블로그](https://awesome-devblog.netlify.com)
 
@@ -114,6 +118,7 @@
 - [신입 개발자 생활백서(진유림)](https://www.slideshare.net/jayjin0427/ss-71896768)
 - [체대 출신 개발자의 2018년 회고](https://ryan-han.com/post/memoirs/memoirs2018/)
 - [나도 개발자가 될 수 있을까(영상)](https://www.edwith.org/sef-2019/joinLectures/24506)
+- [잦은 이직](https://blog.outsider.ne.kr/1445?category=1)
 
 
 ### 3. [기업 테크 블로그]
