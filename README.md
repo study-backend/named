@@ -98,6 +98,7 @@
 - [자바스크립트 코딩 테스트에서 가장 많이하는 실수들](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%B4%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98%EB%93%A4-a10df2c884c)
 - [LINE의 웹 기반 서비스와 기술](https://engineering.linecorp.com/ko/blog/line-web-services-and-techs/)
 - [계층형 댓글 파일럿 프로젝트](https://zuminternet.github.io/ZUM-Pilot-ryudung/)
+- [개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?time_continue=228&v=fHyTA-UIcqs&feature=emb_logo)
 
 ### 2. [마음가짐]
 - [세번째 직장에 오기까지 - 총 6부작 연재](https://jojoldu.tistory.com/277?category=689637)
@@ -133,6 +134,7 @@
 - [네이버(Naver TV(DEVIEW 영상 포함))](https://tv.naver.com/naverd2)
 - [우아한 형제들](http://woowabros.github.io/)
 - [Popit](https://www.popit.kr/)
+- [스포카](https://spoqa.github.io/)
 
 ### 4. [자극받는 개발자]
 - [기계인간](https://johngrib.github.io/)
