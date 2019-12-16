@@ -24,6 +24,7 @@ js로 구현된 부분
 - https://www.w3schools.com/js/js_ajax_intro.asp
 
 JQuery
+
 - https://www.w3schools.com/jquery/jquery_ajax_load.asp 
 
 ----
@@ -35,3 +36,4 @@ Backend 개발자 자격
 Frontend 개발자 자격
 HTML, CSS JavaScript의 심도 있는 이해와 개발 역량
 ES6 및 웹 표준 마크업에 대한 이해
+
