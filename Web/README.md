@@ -25,3 +25,13 @@ js로 구현된 부분
 
 JQuery
 - https://www.w3schools.com/jquery/jquery_ajax_load.asp 
+
+----
+
+Backend 개발자 자격
+대용량 트래픽을 처리할 수 있는 서버 아키텍쳐 설계 역량
+유연하고 확장 가능한 데이터 모델 설계 역량
+
+Frontend 개발자 자격
+HTML, CSS JavaScript의 심도 있는 이해와 개발 역량
+ES6 및 웹 표준 마크업에 대한 이해
